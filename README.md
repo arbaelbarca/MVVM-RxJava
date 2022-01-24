@@ -10,4 +10,4 @@ Implement api rawg io games with :
 
 # Example
 
-<img src="https://github.com/arbaelbarca/MVVM-RxJava/blob/master/mvvmrxjava.PNG" width="200" height="330">
+<img src="https://github.com/arbaelbarca/MVVM-RxJava/blob/master/mvvmrxjava.PNG" width="300" height="500">
