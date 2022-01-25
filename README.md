@@ -5,7 +5,8 @@ Implement api rawg io games with :
 1. Retrofit & RxJava
 2. Koin (Depedency Injection)
 3. ViewBinding
-4. State Async
+4. LiveData
+5. State Async
 
 
 # Example
