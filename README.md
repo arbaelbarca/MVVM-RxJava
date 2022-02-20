@@ -11,6 +11,4 @@ Implement api rawg io games with :
 
 # Example
 
-<img src="https://github.com/arbaelbarca/Github-Users-App-MVVM/blob/master/github2.PNG" width="300" height="650">
-
-<img src="https://github.com/arbaelbarca/Github-Users-App-MVVM/blob/master/github3.PNG" width="300" height="650">
+<img src="https://github.com/arbaelbarca/MVVM-RxJava/blob/master/mvvmrxjava.PNG" width="300" height="650">
